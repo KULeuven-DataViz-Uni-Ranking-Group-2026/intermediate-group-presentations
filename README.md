@@ -5,8 +5,6 @@ Decode global university rankings with our interactive data visualization dashbo
 
 🚀 **Live Interactive Dashboard Prototype:** [View the Interactive Dashboard Here](https://KULeuven-DataViz-Uni-Ranking-Group-2026.github.io/intermediate-group-presentations/dashboard/interactive-dashboard.html)
 
-🚀 **Live Dashboard Prototype:** [View the Midterm Report Here](https://KULeuven-DataViz-Uni-Ranking-Group-2026.github.io/intermediate-group-presentations/dashboard/midterm-report.html)
-
 ## 👥 Team Members
 * YIN Renlong 
 * Victor Kao 
